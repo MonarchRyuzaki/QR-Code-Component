@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![1693658559526](image/README-template/1693658559526.png)
+![1693659905144](image/README/1693659905144.png)
 
 ### Links
 
